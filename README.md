@@ -23,7 +23,7 @@ node get_search_info.js
 |title|タイトル。検索画面に表示するタイトルなので長い場合省略される場合がある|
 |like|like数|
 |view|view数|
-|sdata|作成日|
-|checkdata|このツールでチェックした日|
-|thumurl|サムネイルのURL|
-|otherlinks|作者コメント欄に含まれるlink(youtube,megaなど)|
+|sdate|作成日|
+|checkdate|このツールでチェックした日|
+|thumburl|サムネイルのURL|
+|otherlinks|作者コメント欄に含まれるlink(youtube,megaなど)のリスト|
